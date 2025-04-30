@@ -1,0 +1,1 @@
+This repository contains the source code for the Grant Management application built on Salesforce Platform using Agentforce. The HopeOn Agent is capable of Auto tagging, Generating Application reviews based on complex evaluation criteria and can also be give real time Donor Status
